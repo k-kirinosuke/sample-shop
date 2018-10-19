@@ -3,3 +3,12 @@
   background-size:cover;
 }
 
+.carousel .second-slide {
+  background:#ddd url(dinner.jpg) no-repeat center center;
+  background-size:cover;
+}
+
+.carousel .third-slide {
+  background:#ddd url(salad.jpg) no-repeat center center;
+  background-size:cover;
+}
