@@ -12,3 +12,7 @@
   background:#ddd url(coffee.jpg) no-repeat center center;
   background-size:cover;
 }
+
+.featurette-divider{
+  margin: 2rem 0;
+}
